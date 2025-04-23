@@ -1,0 +1,17 @@
+<type>: <short summary of the change>
+
+# Example: refactor: improved happy year check using set()
+
+Detailed description (optional):
+- What was changed?
+- Why was it changed?
+- Any impact on other parts of the code?
+
+# Types:
+# feat     - A new feature
+# fix      - A bug fix
+# refactor - Code improvement that doesn't change behavior
+# docs     - Documentation only changes
+# test     - Adding or updating tests
+# style    - Code style, formatting, etc (no logic changes)
+# chore    - Other updates (build process, config, etc)
