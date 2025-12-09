@@ -22,5 +22,7 @@ The challenges are solved in Python (or other languages depending on the challen
 |--------|------------------------------------------|---------|---------------|
 | 01     | Check for a happy year                   | ✅ Done | [nextHappyYear](./happy-year/nextHappyYear.py) |
 | 02     | *Coming soon...*                         | ⏳ In Progress | - |
+| 49     | Day of the Year                          | ✅ Done | [dayNumberYear](./day-number-year/dayNumberYear.py) |
+| 02     | *Coming soon...*                         | ⏳ In Progress | - |
 
 > ✅ Done · ⏳ In Progress · 🔒 Blocked · ❌ Cancelled
