@@ -18,11 +18,10 @@ The challenges are solved in Python (or other languages depending on the challen
 
 ## 📆 Weekly Challenges
 
-| Week   | Challenge                                | Status  | Solution Link |
-|--------|------------------------------------------|---------|---------------|
-| 01     | Check for a happy year                   | ✅ Done | [nextHappyYear](./happy-year/nextHappyYear.py) |
-| 02     | *Coming soon...*                         | ⏳ In Progress | - |
-| 49     | Day of the Year                          | ✅ Done | [dayNumberYear](./day-number-year/dayNumberYear.py) |
-| 02     | *Coming soon...*                         | ⏳ In Progress | - |
+| Challenge                                | Status  | Solution Link |
+|------------------------------------------|---------|---------------|
+| Check for a happy year                   | ✅ Done | [nextHappyYear](./happy-year/nextHappyYear.py) |
+| Day of the Year                          | ✅ Done | [dayNumberYear](./day-number-year/dayNumberYear.py) |
+| Vertical Text                            | ⏳ In Progress | [verticalText](./vertical-text/verticalText.py)
 
 > ✅ Done · ⏳ In Progress · 🔒 Blocked · ❌ Cancelled
