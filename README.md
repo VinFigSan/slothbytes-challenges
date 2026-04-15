@@ -22,6 +22,8 @@ The challenges are solved in Python (or other languages depending on the challen
 |------------------------------------------|---------|---------------|
 | Check for a happy year                   | ✅ Done | [nextHappyYear](./happy-year/nextHappyYear.py) |
 | Day of the Year                          | ✅ Done | [dayNumberYear](./day-number-year/dayNumberYear.py) |
-| Vertical Text                            | ⏳ In Progress | [verticalText](./vertical-text/verticalText.py)
+| Vertical Text                            | ✅ Done | [verticalText](./vertical-text/verticalText.py) |
+| Daily Temperatures                       | ✅ Done | [dailyTemperatures](./daily-temperatures/dailyTemperatures.py) |
+
 
 > ✅ Done · ⏳ In Progress · 🔒 Blocked · ❌ Cancelled
